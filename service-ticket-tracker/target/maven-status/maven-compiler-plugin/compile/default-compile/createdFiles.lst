@@ -1,5 +1,0 @@
-com/example/servicetickettracker/ServiceTicketTrackerApplication.class
-com/example/servicetickettracker/controller/TicketController.class
-com/example/servicetickettracker/repository/TicketRepository.class
-HomeController.class
-com/example/servicetickettracker/model/Ticket.class
