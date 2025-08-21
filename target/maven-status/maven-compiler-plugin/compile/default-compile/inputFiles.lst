@@ -1,0 +1,5 @@
+/home/manji/ServiceTicketTracking/src/main/java/com/example/servicetickettracker/controller/HomeController.java
+/home/manji/ServiceTicketTracking/src/main/java/com/example/servicetickettracker/ServiceTicketTrackerApplication.java
+/home/manji/ServiceTicketTracking/src/main/java/com/example/servicetickettracker/model/Ticket.java
+/home/manji/ServiceTicketTracking/src/main/java/com/example/servicetickettracker/repository/TicketRepository.java
+/home/manji/ServiceTicketTracking/src/main/java/com/example/servicetickettracker/controller/TicketController.java
