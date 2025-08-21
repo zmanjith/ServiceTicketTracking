@@ -31,4 +31,5 @@ public class TicketController {
     public Optional<Ticket> getTicketByNumber(@PathVariable String ticketNumber) {
         return repository.findByTicketNumber(ticketNumber);
     }
+    
 }
