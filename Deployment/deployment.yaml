@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: servicetickettracker
-          image: service_ticket_tracking:fixed
+          image: service_ticket_tracking:latest
           ports:
             - containerPort: 8080
 
